@@ -67,9 +67,6 @@ This course is perfect for ML enthusiasts, NLP practitioners, and anyone looking
 | 29  | Agents, Frameworks, Simple Agent till Deployment |
 | 30  | Next Steps |
 
-## Getting Started
-
-(Add information on how to enroll, prerequisites, and any setup instructions)
 
 ## Subscribe for Updates
 
