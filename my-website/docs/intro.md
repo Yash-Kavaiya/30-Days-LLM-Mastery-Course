@@ -1,47 +1,84 @@
 ---
 sidebar_position: 1
 ---
+# 30-Days-LLM-Mastery-Course 🚀
 
-# Tutorial Intro
+Dive into the world of Large Language Models (LLMs) with our comprehensive course! Learn about transformers, tokenizers, and cutting-edge NLP techniques. 
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Course Overview
 
-## Getting Started
+Embark on an exciting journey into the realm of Large Language Models with Neural Hacks with Vasanth! This course covers everything from beginner concepts to advanced state-of-the-art techniques.
 
-Get started by **creating a new site**.
+### 📚 Course Highlights:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Comprehensive coverage of LLM concepts
+- In-depth exploration of transformers and their history
+- Practical insights into tokenizers and their applications
+- Hands-on coding sessions for building and fine-tuning models
+- Advanced topics like preference alignment, quantization, and deployment
 
-### What you'll need
+### 🗓️ Course Structure:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- 30-day intensive program
+- Daily video uploads
+- Mix of theory, coding, and practical applications
 
-## Generate a new site
+### 🔑 Key Topics Covered:
 
-Generate a new Docusaurus site using the **classic template**.
+- Transformer architectures and their evolution
+- GPT family and decoder models
+- Pre-training and fine-tuning pipelines
+- Advanced techniques: LORA, DPO, quantization, and distillation
+- Real-world applications and deployment strategies
 
-The classic template will automatically be added to your project after you run the command:
+### 👨‍🏫 Who Should Attend:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+This course is perfect for ML enthusiasts, NLP practitioners, and anyone looking to dive deep into the world of LLMs. Whether you're a beginner or an experienced professional, there's something for everyone!
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Daily Course Content
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+| Day | Content |
+|-----|---------|
+| 1   | Course Introduction, Transformers History, Transformer Types, "Attention Is All You Need" Paper Introduction |
+| 2   | Transformer Explanation (continued) |
+| 3   | Tokenizer Section, GPT Family Architecture and Overall Working |
+| 4   | (Content not specified) |
+| 5   | Positional Encoding, Types and Code |
+| 6   | Attention, Types and Code |
+| 7   | Other Components, Types and Code |
+| 8   | Pretraining Pipeline Explanation, Data Collection |
+| 9   | Data Processing, Creating PyTorch Dataset and DataLoader |
+| 10  | Understanding LLAMA3 Architecture along with GPT Paper |
+| 11  | Making a Miniature Version of the LLM - Part 1 |
+| 12  | Making a Miniature Version of the LLM - Part 2 |
+| 13  | Pretraining Mini-LLAMA, Training Pipeline Coding, Introduction to Strategies |
+| 14  | Generation Hyperparameters Explanation |
+| 15  | Decoding Strategies Explanation and Coding, Evaluation of Mini-LLAMA - Perplexity |
+| 16  | Finetuning Mini-LLAMA for Text Classification |
+| 17  | Post-Pretraining Pipeline Explanation, Detailed Introduction to SFT, Data Format |
+| 18  | Instruction Tuning (SFT) - Data Collection Processing, Training |
+| 19  | Finetuning with LORA Explanation |
+| 20  | SFT Finetuning with Hugging Face Libraries |
+| 21  | LLM Evaluation Theory and Code |
+| 22  | DPO from Scratch & with Hugging Face with SFT |
+| 23  | HF Model Quantization Complete Section along with KU Caching |
+| 24  | Distillation & Pruning |
+| 25  | LLM Deployment and Serving - Ollama, LitServe - How to Use, Live Demo |
+| 26  | MOE Theory and Code |
+| 27  | Model Merging Theory and Code |
+| 28  | RAG Theory, Code, Real-time App with Deployment |
+| 29  | Agents, Frameworks, Simple Agent till Deployment |
+| 30  | Next Steps |
 
-## Start your site
 
-Run the development server:
+## Subscribe for Updates
 
-```bash
-cd my-website
-npm run start
-```
+Stay tuned for daily updates! Follow us on social media and use the hashtags #LLMCourse #NLP #MachineLearning to join the conversation.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Contact and Resources
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- 📺 YouTube: [Neural Hacks with Vasanth](https://www.youtube.com/@NeuralHackswithVasanth)
+- 💼 LinkedIn: [Vasanth P](https://www.linkedin.com/in/vasanth-p-90826218b/)
+- 💻 GitHub: [Vasanthengineer4949](https://github.com/Vasanthengineer4949)
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+For more information, course materials, and updates, please visit our YouTube channel and follow the instructor on LinkedIn and GitHub.
