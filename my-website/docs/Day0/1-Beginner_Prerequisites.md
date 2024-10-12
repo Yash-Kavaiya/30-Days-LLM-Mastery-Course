@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
----
-# BEGINNER PRE-REQUISITES
+--- 
 
 ## 1. Introduction to Natural Language Processing (NLP)
 
